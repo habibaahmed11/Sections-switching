@@ -1,4 +1,4 @@
-# Project 1 - Sections dwitching
+# Project 1 - Sections switching
 
 ## How to Use:
 
