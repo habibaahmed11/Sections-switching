@@ -1,4 +1,4 @@
-# Project 1 - Landing page
+# Project 1 - Sections dwitching
 
 ## How to Use:
 
