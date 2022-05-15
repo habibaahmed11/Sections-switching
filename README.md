@@ -1,5 +1,5 @@
 # Project 1 - Sections switching
-
+## Open demo : https://habibaahmed11.github.io/Sections-switching/
 ## How to Use:
 
 <ul> <strong> Visit a certain section : </strong>
